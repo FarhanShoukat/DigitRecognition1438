@@ -1,7 +1,7 @@
 # DigitRecognition1438
 
 ## Abstract:
-In this project, I developed three methods to classify digits 1, 3, 4 and 8. The classification is done using kNN, Decision Tree and Convolutional Neural Network (CNN). First, image data is either normalized or scaled. Then it is fed to classifier.
+In this project, three methods were used to classify digits 1, 3, 4 and 8. The classification is done using kNN, Decision Tree and Convolutional Neural Network (CNN). First, image data is either normalized or scaled. Then it is fed to classifier.
 
 ## Methadology:
 First, training images (pixel values) and their labels are read. Then, classifier is trained using training data and labels. Finally, test data is used to evaluate training.
