@@ -21,7 +21,7 @@ As I am using supervised learning approach to classify, I used kNN, Decision Tre
 
 ## Results:
 I got good results from all the methods. Both kNN and CNN gave best results. Moreover, Decision Tree and CNN were better performance wise.
-Detailed results are given in [Reports](..master/Reports).
+Detailed results are given in Reports folder.
 
 
 ## Conclusion:
