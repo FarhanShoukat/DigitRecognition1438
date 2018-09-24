@@ -17,3 +17,21 @@ After reading data and removing features in feature selection, data was preproce
 
 ### 4) Machine Learning Algorithm:
 As I am using supervised learning approach to classify, I used kNN, Decision Tree and Convolutional Neural Network (CNN).
+
+
+## Results:
+I got good results from all the methods. Both kNN and CNN gave best results. Moreover, Decision Tree and CNN were better performance wise.
+Detailed results are given in [Reports](../Reports).
+
+
+## Conclusion:
+To conclude, all methods work for image classification. However, CNN gives great results with minimum prediction time.
+
+
+## Contact
+You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat-782542167/)
+
+
+## License
+[MIT](../master/LICENSE)
+Copyright (c) 2018 Farhan Shoukat
