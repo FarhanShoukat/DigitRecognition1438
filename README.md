@@ -16,11 +16,11 @@ It was found that many of the starting and ending bits of a number are zero. So,
 After reading data and removing features in feature selection, data was preprocessed. In this case, normalization and scaling were tested.
 
 ### 4) Machine Learning Algorithm:
-As I am using supervised learning approach to classify, I used kNN, Decision Tree and Convolutional Neural Network (CNN).
+As Supervised learning approach is used to classify, kNN, Decision Tree and Convolutional Neural Network (CNN) were used.
 
 
 ## Results:
-I got good results from all the methods. Both kNN and CNN gave best results. Moreover, Decision Tree and CNN were better performance wise.
+Good results were obtained from all the methods. Both kNN and CNN gave best results. Moreover, Decision Tree and CNN were better performance wise.
 Detailed results are given in Reports folder.
 
 
